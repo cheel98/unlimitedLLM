@@ -1,4 +1,6 @@
-__pycache__/
-models/
-logs/
+_pycache_/
+.idea/
+.vercel/
+model/
+
 
